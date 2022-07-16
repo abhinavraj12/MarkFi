@@ -1,6 +1,6 @@
 # MarkFi
 
-#About
+# About
 - MarkFi is a Spring-Boot & Angular-powered web application.
 - A Exam Portal web application to test yourself and enhance your knowlwdge.
 
