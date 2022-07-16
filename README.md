@@ -1,12 +1,12 @@
-# MarkFi
+# MarkFi 
+- A Exam Portal web application to test yourself and enhance your knowlwdge.
 
-## About ( A Exam Portal web application to test yourself and enhance your knowlwdge.)
-
-
+## About 
 
 - MarkFi is a Exam Portal Platform built with the Spring-Boot & Angular.
 - Implemented BCryptPasswordEncoder for password encryption.
-- 
+- Secured backend rest api by using jwt authentication and spring security.
+- Implemented with all the best practices like a clearly designed UI, Loader, Buttons, Form etc.
 
 # ✨Screenshot ✨!
 
