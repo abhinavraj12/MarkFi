@@ -1,7 +1,7 @@
 # MarkFi
 
-# About
-( A Exam Portal web application to test yourself and enhance your knowlwdge.)
+## About ( A Exam Portal web application to test yourself and enhance your knowlwdge.)
+
 
 
 - MarkFi is a Exam Portal Platform built with the Spring-Boot & Angular.
